@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354830538306",
+    "project_id": "fasilkom-bersatu",
+    "storage_bucket": "fasilkom-bersatu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354830538306:android:e8c75ffc08adbaffed7fdb",
+        "android_client_info": {
+          "package_name": "com.example.pengingattugas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApsOEfGHYaUVU60yy3p3R3OKRsppuQaso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
